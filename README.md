@@ -1,2 +1,5 @@
 # Zava-shopping-copilot
-[FlowLens Demo] AI shopping assistant copilot — Team: AI Agents, Group: ZavaRetail
+
+AI shopping assistant copilot
+
+Update 1 by James Chen
